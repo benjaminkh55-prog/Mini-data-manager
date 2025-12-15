@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini data manager", "Mini data manager.csproj", "{B0ADE2B0-77D2-466A-A41D-306F546F0774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0ADE2B0-77D2-466A-A41D-306F546F0774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0ADE2B0-77D2-466A-A41D-306F546F0774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0ADE2B0-77D2-466A-A41D-306F546F0774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0ADE2B0-77D2-466A-A41D-306F546F0774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37654981-ED8C-4DD0-B587-C7BC4E98B962}
+	EndGlobalSection
+EndGlobal
